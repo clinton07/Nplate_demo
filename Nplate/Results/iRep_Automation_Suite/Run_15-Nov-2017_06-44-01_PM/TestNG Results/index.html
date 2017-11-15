@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />  
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-iRep_Automation_Suite">
+              <span class="suite-name border-passed">iRep_Automation_Suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-iRep_Automation_Suite">
+                    <span>D:\Aloy\Updated\VeevaCRM_iRep_Automation MS3 April 24\Nplate\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-iRep_Automation_Suite">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-iRep_Automation_Suite">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-iRep_Automation_Suite">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-iRep_Automation_Suite">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-iRep_Automation_Suite">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-iRep_Automation_Suite">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">2 methods,   2 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-iRep_Automation_Suite" class="hide-methods passed suite-iRep_Automation_Suite"> (hide)</a> <!-- hide-methods passed suite-iRep_Automation_Suite -->
+                      <a href="#" panel-name="suite-iRep_Automation_Suite" class="show-methods passed suite-iRep_Automation_Suite"> (show)</a> <!-- show-methods passed suite-iRep_Automation_Suite -->
+                    </span>
+                    <div class="method-list-content passed suite-iRep_Automation_Suite">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-iRep_Automation_Suite" title="com.framework.utility.FinalTest" hash-for-method="FinalTestReport">FinalTestReport</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-iRep_Automation_Suite" title="Regression.US.FullFlow" hash-for-method="nPlate({Password=123456, HCO_Primary_Country=, HCP_CustomerType=, HCO_Type=, HCO_Speciality=, HCP_Notes=, H...)">nPlate({Password=123456, HCO_Primary_Country=, HCP_CustomerType=, HCO_Type=, HCO_Speciality=, HCP_Notes=, H...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-iRep_Automation_Suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-iRep_Automation_Suite" class="panel iRep_Automation_Suite">
+          <div class="suite-iRep_Automation_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">Regression.US.FullFlow</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="nPlate({Password=123456, HCO_Primary_Country=, HCP_CustomerType=, HCO_Type=, HCO_Speciality=, HCP_Notes=, H...)">
+                  </a> <!-- nPlate({Password=123456, HCO_Primary_Country=, HCP_CustomerType=, HCO_Type=, HCO_Speciality=, HCP_Notes=, H...) -->
+                  <span class="method-name">nPlate</span>
+                  <span class="parameters">({Password=123456, HCO_Primary_Country=, HCP_CustomerType=, HCO_Type=, HCO_Speciality=, HCP_Notes=, HCO_Country=, HCP_Speciality=, UserName=mohamedkahaf@gmail.com, HCO_State=, PrimaryParent=, HCP_FirstName=, HCP_Salutation=, RunMode=Y, HCO_Add2=, HCO_City=, HCO_Add1=, HCP_LastName=, HCP_Primary_Country=, HCO_Notes=, HCO_Zip=, Plateletcount=700.0}, public void Regression.US.FullFlow.nPlate(java.util.Hashtable,java.lang.reflect.Method) throws java.lang.Exception)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-iRep_Automation_Suite-class-passed -->
+          <div class="suite-iRep_Automation_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.framework.utility.FinalTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="FinalTestReport">
+                  </a> <!-- FinalTestReport -->
+                  <span class="method-name">FinalTestReport</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-iRep_Automation_Suite-class-passed -->
+        </div> <!-- panel iRep_Automation_Suite -->
+        <div panel-name="test-xml-iRep_Automation_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">D:\Aloy\Updated\VeevaCRM_iRep_Automation MS3 April 24\Nplate\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;iRep_Automation_Suite&quot;&gt;
+  &lt;test name=&quot;Regression&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;Regression.US.FullFlow&quot;/&gt;
+      &lt;class name=&quot;com.framework.utility.FinalTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Regression --&gt;
+&lt;/suite&gt; &lt;!-- iRep_Automation_Suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-iRep_Automation_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for iRep_Automation_Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Regression (2 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-iRep_Automation_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for iRep_Automation_Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-iRep_Automation_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for iRep_Automation_Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_iRep_Automation_Suite');
+function tableData_iRep_Automation_Suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(2);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'nPlate')
+data.setCell(0, 2, 'Regression.US.FullFlow')
+data.setCell(0, 3, 149961);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'FinalTestReport')
+data.setCell(1, 2, 'com.framework.utility.FinalTest')
+data.setCell(1, 3, 78);
+window.suiteTableData['iRep_Automation_Suite']= { tableData: data, tableDiv: 'times-div-iRep_Automation_Suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 2 minutes</span>
+              <div id="times-div-iRep_Automation_Suite">
+              </div> <!-- times-div-iRep_Automation_Suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-iRep_Automation_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for iRep_Automation_Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-iRep_Automation_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-iRep_Automation_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">Regression.US.FullFlow</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">suiteSetup(org.testng.TestRunner@50d68830)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-suite before -->
+              <div class="configuration-method before">
+                <span class="method-name">testMethodSetup(public void Regression.US.FullFlow.nPlate(java.util.Hashtable,java.lang.reflect.Method) throws java....)</span>
+                <span class="method-start">2516 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">nPlate({Password=123456, HCO_Primary_Country=, HCP_CustomerType=, HCO_Type=, HCO_Speciality=, HCP_Notes=, H...)</span>
+                <span class="method-start">2954 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">finalize</span>
+                <span class="method-start">152930 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">testMethodTearDown([TestResult name=nPlate status=SUCCESS method=FullFlow.nPlate(java.util.Hashtable, java.lang.reflect...)</span>
+                <span class="method-start">152946 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.framework.utility.FinalTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">FinalTestReport</span>
+                <span class="method-start">167475 ms</span>
+              </div> <!-- test-method -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

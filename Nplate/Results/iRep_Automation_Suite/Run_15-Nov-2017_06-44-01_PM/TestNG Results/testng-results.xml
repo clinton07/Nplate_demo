@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="iRep_Automation_Suite" duration-ms="166397" started-at="2017-09-21T15:17:42Z" finished-at="2017-09-21T15:20:29Z">
+    <groups>
+    </groups>
+    <test name="Regression" duration-ms="166397" started-at="2017-09-21T15:17:42Z" finished-at="2017-09-21T15:20:29Z">
+      <class name="Regression.US.FullFlow">
+        <test-method status="PASS" signature="suiteSetup(org.testng.ITestContext)[pri:0, instance:Regression.US.FullFlow@2bbf4b8b]" name="suiteSetup" is-config="true" duration-ms="1156" started-at="2017-09-21T20:47:41Z" finished-at="2017-09-21T20:47:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@50d68830]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteSetup -->
+        <test-method status="PASS" signature="testMethodSetup(java.lang.reflect.Method)[pri:0, instance:Regression.US.FullFlow@2bbf4b8b]" name="testMethodSetup" is-config="true" duration-ms="438" started-at="2017-09-21T20:47:44Z" finished-at="2017-09-21T20:47:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Regression.US.FullFlow.nPlate(java.util.Hashtable,java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodSetup -->
+        <test-method status="PASS" signature="nPlate(java.util.Hashtable, java.lang.reflect.Method)[pri:1, instance:Regression.US.FullFlow@2bbf4b8b]" name="nPlate" duration-ms="149961" started-at="2017-09-21T20:47:44Z" data-provider="Nplate" finished-at="2017-09-21T20:50:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Password=123456, HCO_Primary_Country=, HCP_CustomerType=, HCO_Type=, HCO_Speciality=, HCP_Notes=, HCO_Country=, HCP_Speciality=, UserName=mohamedkahaf@gmail.com, HCO_State=, PrimaryParent=, HCP_FirstName=, HCP_Salutation=, RunMode=Y, HCO_Add2=, HCO_City=, HCO_Add1=, HCP_LastName=, HCP_Primary_Country=, HCO_Notes=, HCO_Zip=, Plateletcount=700.0}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void Regression.US.FullFlow.nPlate(java.util.Hashtable,java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nPlate -->
+        <test-method status="PASS" signature="finalize()[pri:0, instance:Regression.US.FullFlow@2bbf4b8b]" name="finalize" is-config="true" duration-ms="16" started-at="2017-09-21T20:50:14Z" finished-at="2017-09-21T20:50:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method status="FAIL" signature="testMethodTearDown(org.testng.ITestResult)[pri:0, instance:Regression.US.FullFlow@2bbf4b8b]" name="testMethodTearDown" is-config="true" duration-ms="0" started-at="2017-09-21T20:50:14Z" finished-at="2017-09-21T20:50:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=nPlate status=SUCCESS method=FullFlow.nPlate(java.util.Hashtable, java.lang.reflect.Method)[pri:1, instance:Regression.US.FullFlow@2bbf4b8b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at java.util.regex.Matcher.getTextLength(Unknown Source)
+	at java.util.regex.Matcher.reset(Unknown Source)
+	at java.util.regex.Matcher.<init>(Unknown Source)
+	at java.util.regex.Pattern.matcher(Unknown Source)
+	at com.UploadALM.util.ALMResultUpdater.getTestID(ALMResultUpdater.java:214)
+	at com.UploadALM.util.ALMResultUpdater.createRun(ALMResultUpdater.java:89)
+	at com.UploadALM.util.ALMResultUpdater.updateStatus(ALMResultUpdater.java:60)
+	at com.framework.testbase.TestBase.almIntegration(TestBase.java:221)
+	at com.framework.testbase.TestBase.testMethodTearDown(TestBase.java:406)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:510)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:211)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:703)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.run(TestNG.java:1048)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodTearDown -->
+        <test-method status="SKIP" signature="suiteTearDown()[pri:0, instance:Regression.US.FullFlow@2bbf4b8b]" name="suiteTearDown" is-config="true" duration-ms="0" started-at="2017-09-21T20:50:29Z" finished-at="2017-09-21T20:50:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTearDown -->
+      </class> <!-- Regression.US.FullFlow -->
+      <class name="com.framework.utility.FinalTest">
+        <test-method status="PASS" signature="FinalTestReport()[pri:0, instance:com.framework.utility.FinalTest@30a3107a]" name="FinalTestReport" duration-ms="78" started-at="2017-09-21T20:50:29Z" finished-at="2017-09-21T20:50:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FinalTestReport -->
+      </class> <!-- com.framework.utility.FinalTest -->
+    </test> <!-- Regression -->
+  </suite> <!-- iRep_Automation_Suite -->
+</testng-results>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [iRep_Automation_Suite]">
+  <test name="Regression(failed)">
+    <classes>
+      <class name="Regression.US.FullFlow">
+        <methods>
+          <include name="finalize"/>
+          <include name="nPlate" invocation-numbers="0"/>
+          <include name="testMethodSetup"/>
+          <include name="testMethodTearDown"/>
+          <include name="suiteSetup"/>
+        </methods>
+      </class> <!-- Regression.US.FullFlow -->
+    </classes>
+  </test> <!-- Regression(failed) -->
+</suite> <!-- Failed suite [iRep_Automation_Suite] -->

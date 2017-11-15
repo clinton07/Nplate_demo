@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [iRep_Automation_Suite]">
+  <test name="Regression(failed)">
+    <classes>
+      <class name="Regression.INT.INT_Consent_and_Notice_Form_Opt_In">
+        <methods>
+          <include name="finalize"/>
+          <include name="testMethodSetup"/>
+          <include name="testMethodTearDown"/>
+        </methods>
+      </class> <!-- Regression.INT.INT_Consent_and_Notice_Form_Opt_In -->
+      <class name="Regression.INT.INT_Approved_Email_Update_Opt_In">
+        <methods>
+          <include name="finalize"/>
+          <include name="testMethodSetup"/>
+          <include name="testMethodTearDown"/>
+          <include name="INT_Approved_Email_Update_Opt_In_Validation" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- Regression.INT.INT_Approved_Email_Update_Opt_In -->
+      <class name="Regression.INT.INT_Disclaimer_text_Consent_Opt_in_Opt_out">
+        <methods>
+          <include name="finalize"/>
+          <include name="testMethodSetup"/>
+          <include name="testMethodTearDown"/>
+          <include name="suiteSetup"/>
+          <include name="suiteTearDown"/>
+        </methods>
+      </class> <!-- Regression.INT.INT_Disclaimer_text_Consent_Opt_in_Opt_out -->
+      <class name="Regression.INT.INT_Email_Phone_Mail_SMS_Opted_Out">
+        <methods>
+          <include name="finalize"/>
+          <include name="testMethodSetup"/>
+          <include name="testMethodTearDown"/>
+        </methods>
+      </class> <!-- Regression.INT.INT_Email_Phone_Mail_SMS_Opted_Out -->
+    </classes>
+  </test> <!-- Regression(failed) -->
+</suite> <!-- Failed suite [iRep_Automation_Suite] -->

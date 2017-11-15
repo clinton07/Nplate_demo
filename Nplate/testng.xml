@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="iRep_Automation_Suite">
+	<test name="Regression">
+		<classes>
+				
+			<!-- MS1 -->	
+			
+			<class name="Regression.US.FullFlow"/>
+			      		
+      		<!-- Do not delete/comment the below line -->
+			<class name="com.framework.utility.FinalTest" />
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

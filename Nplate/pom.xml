@@ -1,0 +1,455 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>spinraza</groupId>
+	<artifactId>scripting</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
+
+	<name>Repo1</name>
+	<url>http://repo1.maven.org/maven2</url>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>2.19.1</version>
+				<configuration>
+					<testSourceDirectory>${project.basedir}/src/test/java/</testSourceDirectory>
+					<testClassesDirectory>${project.basedir}/target/test-classes</testClassesDirectory>
+					<systemProperties>
+						<ExecuteFromHPALM>Y</ExecuteFromHPALM>
+					</systemProperties>
+					<!-- <properties>
+					     <suiteXmlFile>testng_UAT.xml</suiteXmlFile>
+					 </properties> -->
+					  <suiteXmlFiles>
+			            <suiteXmlFile>testng.xml</suiteXmlFile>
+			        </suiteXmlFiles>
+				</configuration>
+			</plugin>
+
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.1</version>
+				<configuration>
+					<source>1.8</source>
+					<target>1.8</target>
+				</configuration>
+			</plugin>
+
+		</plugins>
+	</build>
+
+	<repositories>
+
+		<repository>
+			<id>perfectomobile</id>
+			<name>Perfecto mobile</name>
+			<url>http://repository-perfectomobile.forge.cloudbees.com/public</url>
+		</repository>
+
+		<repository>
+			<releases>
+				<enabled>true</enabled>
+				<updatePolicy>always</updatePolicy>
+				<checksumPolicy>fail</checksumPolicy>
+			</releases>
+			<id>Experitest.repo1</id>
+			<name>YourName</name>
+			<url>http://repo.experitest.com:8010/Maven2/</url>
+			<layout>default</layout>
+		</repository>
+	</repositories>
+
+	<pluginRepositories>
+		<pluginRepository>
+			<id>central</id>
+			<name>Repo1</name>
+			<url>http://repo1.maven.org/maven2</url>
+			<releases>
+				<enabled>true</enabled>
+			</releases>
+			<snapshots>
+				<enabled>false</enabled>
+				<updatePolicy>never</updatePolicy>
+			</snapshots>
+		</pluginRepository>
+	</pluginRepositories>
+
+	<dependencies>
+
+		<!-- https://mvnrepository.com/artifact/xml-apis/xml-apis -->
+		<dependency>
+			<groupId>xml-apis</groupId>
+			<artifactId>xml-apis</artifactId>
+			<version>2.0.2</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.testng</groupId>
+			<artifactId>testng</artifactId>
+			<version>6.9.9</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-java</artifactId>
+			<version>2.53.1</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-server -->
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-server</artifactId>
+			<version>2.53.1</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi</artifactId>
+			<version>3.10.1</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi-ooxml</artifactId>
+			<version>3.10.1</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml-schemas -->
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi-ooxml-schemas</artifactId>
+			<version>3.10.1</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/javax.activation/activation -->
+		<dependency>
+			<groupId>javax.activation</groupId>
+			<artifactId>activation</artifactId>
+			<version>1.1.1</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.apache.james/apache-mime4j -->
+		<dependency>
+			<groupId>org.apache.james</groupId>
+			<artifactId>apache-mime4j</artifactId>
+			<version>0.6</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/io.fastjson/boon -->
+		<dependency>
+			<groupId>io.fastjson</groupId>
+			<artifactId>boon</artifactId>
+			<version>0.33</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/cglib/cglib-nodep -->
+		<dependency>
+			<groupId>cglib</groupId>
+			<artifactId>cglib-nodep</artifactId>
+			<version>2.1_3</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/stax/stax-api -->
+		<dependency>
+			<groupId>stax</groupId>
+			<artifactId>stax-api</artifactId>
+			<version>1.0.1</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.apache.xmlbeans/xmlbeans -->
+		<dependency>
+			<groupId>org.apache.xmlbeans</groupId>
+			<artifactId>xmlbeans</artifactId>
+			<version>2.6.0</version>
+		</dependency>
+
+
+
+		<!-- https://mvnrepository.com/artifact/com.itextpdf/itextpdf -->
+		<dependency>
+			<groupId>com.itextpdf</groupId>
+			<artifactId>itextpdf</artifactId>
+			<version>5.4.5</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/com.applitools/eyes-selenium-java 
+			- Only needed -->
+		<dependency>
+			<groupId>com.applitools</groupId>
+			<artifactId>eyes-selenium-java3</artifactId>
+			<version>3.6</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml-schemas 
+			<dependency> <groupId>org.apache.poi</groupId> <artifactId>poi-ooxml-schemas</artifactId> 
+			<version>3.6</version> </dependency> -->
+
+		<!-- https://mvnrepository.com/artifact/log4j/log4j -->
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.17</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.experitest</groupId>
+			<artifactId>imageClient</artifactId>
+			<version>10.2</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.experitest</groupId>
+			<artifactId>boon-0.33</artifactId>
+			<version>LATEST</version>
+		</dependency>
+		<dependency>
+			<groupId>com.experitest</groupId>
+			<artifactId>commons-codec-1.9</artifactId>
+			<version>LATEST</version>
+		</dependency>
+		<dependency>
+			<groupId>com.experitest</groupId>
+			<artifactId>commons-io-2.4</artifactId>
+			<version>LATEST</version>
+		</dependency>
+		<dependency>
+			<groupId>com.experitest</groupId>
+			<artifactId>commons-logging-1.2</artifactId>
+			<version>LATEST</version>
+		</dependency>
+		<dependency>
+			<groupId>com.experitest</groupId>
+			<artifactId>httpclient-4.5.2</artifactId>
+			<version>LATEST</version>
+		</dependency>
+		<dependency>
+			<groupId>com.experitest</groupId>
+			<artifactId>httpcore-4.4.4</artifactId>
+			<version>LATEST</version>
+		</dependency>
+		<dependency>
+			<groupId>com.experitest</groupId>
+			<artifactId>httpmime-4.5.2</artifactId>
+			<version>LATEST</version>
+		</dependency>
+		<dependency>
+			<groupId>com.experitest</groupId>
+			<artifactId>junit-4.4</artifactId>
+			<version>LATEST</version>
+		</dependency>
+		<dependency>
+			<groupId>com.experitest</groupId>
+			<artifactId>mobile-webdriver</artifactId>
+			<version>LATEST</version>
+		</dependency>
+		<dependency>
+			<groupId>com.experitest</groupId>
+			<artifactId>selenium-api-2.42.2</artifactId>
+			<version>LATEST</version>
+		</dependency>
+		<dependency>
+			<groupId>com.experitest</groupId>
+			<artifactId>selenium-support-2.44.0</artifactId>
+			<version>LATEST</version>
+		</dependency>
+		<dependency>
+			<groupId>com.experitest</groupId>
+			<artifactId>ws-commons-util-1.0.2</artifactId>
+			<version>LATEST</version>
+		</dependency>
+		<dependency>
+			<groupId>com.experitest</groupId>
+			<artifactId>xmlrpc-client-3.1.2</artifactId>
+			<version>LATEST</version>
+		</dependency>
+		<dependency>
+			<groupId>com.experitest</groupId>
+			<artifactId>xmlrpc-common-3.1.2</artifactId>
+			<version>LATEST</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+			<version>2.3.1</version>
+		</dependency>
+		<!-- Perfecto mobile dependencies -->
+		<dependency>
+			<groupId>com.perfectomobile</groupId>
+			<artifactId>pm-webdriver</artifactId>
+			<version>9.2.0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>com.perfectomobile</groupId>
+			<artifactId>http-client</artifactId>
+			<version>9.2.0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>dom4j</groupId>
+			<artifactId>dom4j</artifactId>
+			<version>1.6.1</version>
+		</dependency>
+		<dependency>
+			<groupId>jaxen</groupId>
+			<artifactId>jaxen</artifactId>
+			<version>1.1.6</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>3.4</version>
+		</dependency>
+		<dependency>
+			<groupId>commons-io</groupId>
+			<artifactId>commons-io</artifactId>
+			<version>2.4</version>
+		</dependency>
+		<dependency>
+			<groupId>ch.qos.logback</groupId>
+			<artifactId>logback-classic</artifactId>
+			<version>1.1.7</version>
+		</dependency>
+		<dependency>
+			<groupId>ch.qos.logback</groupId>
+			<artifactId>logback-core</artifactId>
+			<version>1.1.7</version>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+			<version>1.7.21</version>
+		</dependency>
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-api</artifactId>
+			<version>2.48.2</version>
+		</dependency>
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-support</artifactId>
+			<version>2.48.2</version>
+		</dependency>
+		<dependency>
+			<groupId>io.appium</groupId>
+			<artifactId>java-client</artifactId>
+			<version>3.3.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-core</artifactId>
+			<version>2.6.3</version>
+		</dependency>
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-databind</artifactId>
+			<version>2.6.3</version>
+		</dependency>
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-annotations</artifactId>
+			<version>2.6.3</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-htmlunit-driver -->
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-htmlunit-driver</artifactId>
+			<version>2.52.0</version>
+		</dependency>		
+
+		<!-- https://mvnrepository.com/artifact/org.json/json -->
+		<dependency>
+			<groupId>org.json</groupId>
+			<artifactId>json</artifactId>
+			<version>20141113</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.json/json <dependency> <groupId>org.json</groupId> 
+			<artifactId>json</artifactId> <version>20090211</version> </dependency> -->
+
+		<!-- Cognizant Jars for HTML Reporting -->
+
+		<!-- <dependency>
+			<groupId>Framework_Core</groupId>
+			<artifactId>Framework_Core</artifactId>
+			<version>1.0</version>
+		</dependency> -->
+
+		<dependency>
+			<groupId>Framework_DataTable</groupId>
+			<artifactId>Framework_DataTable</artifactId>
+			<version>1.0</version>
+			<scope>system</scope> 
+			 <systemPath>${project.basedir}/Lib/Framework_DataTable.jar</systemPath>
+		</dependency>
+
+		<!-- <dependency>
+			<groupId>Framework_Reporting</groupId>
+			<artifactId>Framework_Reporting</artifactId>
+			<version>1.0</version>
+			<scope>system</scope> 
+			 <systemPath>${project.basedir}/Lib/Framework_Reporting.jar</systemPath>
+		</dependency> -->
+
+		<dependency>
+			<groupId>Framework_Selenium</groupId>
+			<artifactId>Framework_Selenium</artifactId>
+			<version>1.0</version>
+			<scope>system</scope> 
+			 <systemPath>${project.basedir}/Lib/Framework_Selenium.jar</systemPath>
+		</dependency>
+
+		<dependency>
+			<groupId>Framework_Utilities</groupId>
+			<artifactId>Framework_Utilities</artifactId>
+			<version>1.0</version>
+			<scope>system</scope> 
+			 <systemPath>${project.basedir}/Lib/Framework_Utilities.jar</systemPath>
+		</dependency>
+		
+		<dependency>
+			 <groupId>Framework_Core</groupId> 
+			 <artifactId>Framework_Core</artifactId> 
+			 <version>1.0</version>
+			 <scope>system</scope> 
+			 <systemPath>${project.basedir}/Lib/Framework_Core.jar</systemPath>
+		 </dependency>
+		 
+		<dependency>
+			<groupId>ATU</groupId>
+			<artifactId>ATUReporter_Selenium_testNG</artifactId>
+			<version>5.1.1</version>
+			<scope>system</scope> 
+			 <systemPath>${project.basedir}/Lib/ATUReporter_Selenium_testNG_5.5_BETA.jar</systemPath>
+		</dependency>
+		
+		<dependency>
+			<groupId>ATUTestRecorder_2.1</groupId>
+			<artifactId>ATUTestRecorder_2.1</artifactId>
+			<version>2.1</version>
+			<scope>system</scope> 
+			 <systemPath>${project.basedir}/Lib/ATUTestRecorder_2.1.jar</systemPath>
+		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-remote-driver -->
+	<dependency>
+		<groupId>org.seleniumhq.selenium</groupId>
+		<artifactId>selenium-remote-driver</artifactId>
+		<version>2.53.1</version>
+	</dependency> 
+
+	</dependencies>
+</project>

@@ -1,0 +1,811 @@
+12/01/2017 09:47:53 devpinoyLogger Intializing properties file
+12/01/2017 09:47:54 devpinoyLogger Executing abovems_regRegression.abovems
+12/01/2017 09:47:54 devpinoyLogger Validating runmode of abovems_regof suite abovems
+12/01/2017 09:47:54 devpinoyLogger Intializing properties file
+12/01/2017 09:47:55 devpinoyLogger Testcase abovems_reg is runnable
+12/01/2017 09:49:36 devpinoyLogger Executing abovems_regRegression.abovems
+12/01/2017 09:49:36 devpinoyLogger Validating runmode of abovems_regof suite abovems
+12/01/2017 09:49:36 devpinoyLogger Intializing properties file
+12/01/2017 09:49:36 devpinoyLogger Testcase abovems_reg is runnable
+12/01/2017 09:50:37 devpinoyLogger Executing abovems_regRegression.abovems
+12/01/2017 09:50:37 devpinoyLogger Validating runmode of abovems_regof suite abovems
+12/01/2017 09:50:37 devpinoyLogger Intializing properties file
+12/01/2017 09:50:37 devpinoyLogger Testcase abovems_reg is runnable
+12/01/2017 09:51:43 devpinoyLogger Executing abovems_regRegression.abovems
+12/01/2017 09:51:43 devpinoyLogger Validating runmode of abovems_regof suite abovems
+12/01/2017 09:51:43 devpinoyLogger Intializing properties file
+12/01/2017 09:51:43 devpinoyLogger Skipping test abovems_reg inside Suite abovems
+12/01/2017 09:51:43 devpinoyLogger Intializing properties file
+12/01/2017 09:51:43 devpinoyLogger Executing abovems_regRegression.abovems
+12/01/2017 09:51:43 devpinoyLogger Validating runmode of abv_Login_Showpass_Saveof suite abovems
+12/01/2017 09:51:43 devpinoyLogger Intializing properties file
+12/01/2017 09:51:43 devpinoyLogger Testcase abv_Login_Showpass_Save is runnable
+12/01/2017 09:53:12 devpinoyLogger Executing abovems_regRegression.abovems
+12/01/2017 09:53:12 devpinoyLogger Validating runmode of abv_Login_Showpass_Saveof suite abovems
+12/01/2017 09:53:12 devpinoyLogger Intializing properties file
+12/01/2017 09:53:12 devpinoyLogger Testcase abv_Login_Showpass_Save is runnable
+12/01/2017 09:54:16 devpinoyLogger Executing abovems_regRegression.abovems
+12/01/2017 09:54:16 devpinoyLogger Validating runmode of abv_Login_Showpass_Saveof suite abovems
+12/01/2017 09:54:16 devpinoyLogger Intializing properties file
+12/01/2017 09:54:16 devpinoyLogger Testcase abv_Login_Showpass_Save is runnable
+12/01/2017 09:55:42 devpinoyLogger Executing abovems_regRegression.abovems
+12/01/2017 09:55:42 devpinoyLogger Validating runmode of abv_Login_Showpass_Saveof suite abovems
+12/01/2017 09:55:42 devpinoyLogger Intializing properties file
+12/01/2017 09:55:42 devpinoyLogger Skipping test abv_Login_Showpass_Save inside Suite abovems
+12/01/2017 09:55:42 devpinoyLogger Intializing properties file
+12/01/2017 09:55:42 devpinoyLogger Validating runmode of abv_Shortcutof suite abovems
+12/01/2017 09:55:42 devpinoyLogger Intializing properties file
+12/01/2017 09:55:42 devpinoyLogger Testcase abv_Shortcut is runnable
+12/01/2017 09:56:48 devpinoyLogger Validating runmode of abv_Shortcutof suite abovems
+12/01/2017 09:56:48 devpinoyLogger Intializing properties file
+12/01/2017 09:56:48 devpinoyLogger Testcase abv_Shortcut is runnable
+12/01/2017 09:57:38 devpinoyLogger Validating runmode of abv_Shortcutof suite abovems
+12/01/2017 09:57:38 devpinoyLogger Intializing properties file
+12/01/2017 09:57:38 devpinoyLogger Testcase abv_Shortcut is runnable
+12/01/2017 09:58:34 devpinoyLogger Validating runmode of abv_Shortcutof suite abovems
+12/01/2017 09:58:34 devpinoyLogger Intializing properties file
+12/01/2017 09:58:34 devpinoyLogger Skipping test abv_Shortcut inside Suite abovems
+12/01/2017 09:58:34 devpinoyLogger Intializing properties file
+12/01/2017 09:58:34 devpinoyLogger Validating runmode of abv_TextResize_Shareof suite abovems
+12/01/2017 09:58:34 devpinoyLogger Intializing properties file
+12/01/2017 09:58:34 devpinoyLogger Testcase abv_TextResize_Share is runnable
+12/01/2017 10:00:13 devpinoyLogger Validating runmode of abv_TextResize_Shareof suite abovems
+12/01/2017 10:00:13 devpinoyLogger Intializing properties file
+12/01/2017 10:00:13 devpinoyLogger Testcase abv_TextResize_Share is runnable
+12/01/2017 10:01:21 devpinoyLogger Validating runmode of abv_TextResize_Shareof suite abovems
+12/01/2017 10:01:21 devpinoyLogger Intializing properties file
+12/01/2017 10:01:22 devpinoyLogger Testcase abv_TextResize_Share is runnable
+12/01/2017 10:02:48 devpinoyLogger Validating runmode of abv_TextResize_Shareof suite abovems
+12/01/2017 10:02:48 devpinoyLogger Intializing properties file
+12/01/2017 10:02:48 devpinoyLogger Skipping test abv_TextResize_Share inside Suite abovems
+12/01/2017 10:02:48 devpinoyLogger Intializing properties file
+12/01/2017 10:02:48 devpinoyLogger Validating runmode of abv_MSEventSearch_Registerof suite abovems
+12/01/2017 10:02:48 devpinoyLogger Intializing properties file
+12/01/2017 10:02:48 devpinoyLogger Testcase abv_MSEventSearch_Register is runnable
+12/01/2017 10:04:25 devpinoyLogger Validating runmode of abv_MSEventSearch_Registerof suite abovems
+12/01/2017 10:04:25 devpinoyLogger Intializing properties file
+12/01/2017 10:04:25 devpinoyLogger Testcase abv_MSEventSearch_Register is runnable
+12/01/2017 10:05:25 devpinoyLogger Validating runmode of abv_MSEventSearch_Registerof suite abovems
+12/01/2017 10:05:25 devpinoyLogger Intializing properties file
+12/01/2017 10:05:25 devpinoyLogger Testcase abv_MSEventSearch_Register is runnable
+12/01/2017 10:06:28 devpinoyLogger Validating runmode of abv_MSEventSearch_Registerof suite abovems
+12/01/2017 10:06:28 devpinoyLogger Intializing properties file
+12/01/2017 10:06:28 devpinoyLogger Skipping test abv_MSEventSearch_Register inside Suite abovems
+12/01/2017 10:06:28 devpinoyLogger Intializing properties file
+12/01/2017 10:06:28 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:06:28 devpinoyLogger Validating runmode of plegridy_reg1of suite plegridy
+12/01/2017 10:06:28 devpinoyLogger Intializing properties file
+12/01/2017 10:06:28 devpinoyLogger Testcase plegridy_reg1 is runnable
+12/01/2017 10:07:20 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:07:20 devpinoyLogger Validating runmode of plegridy_reg1of suite plegridy
+12/01/2017 10:07:20 devpinoyLogger Intializing properties file
+12/01/2017 10:07:20 devpinoyLogger Testcase plegridy_reg1 is runnable
+12/01/2017 10:07:53 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:07:53 devpinoyLogger Validating runmode of plegridy_reg1of suite plegridy
+12/01/2017 10:07:53 devpinoyLogger Intializing properties file
+12/01/2017 10:07:53 devpinoyLogger Testcase plegridy_reg1 is runnable
+12/01/2017 10:08:26 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:08:26 devpinoyLogger Validating runmode of plegridy_reg1of suite plegridy
+12/01/2017 10:08:26 devpinoyLogger Intializing properties file
+12/01/2017 10:08:26 devpinoyLogger Skipping test plegridy_reg1 inside Suite plegridy
+12/01/2017 10:08:26 devpinoyLogger Intializing properties file
+12/01/2017 10:08:26 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:08:26 devpinoyLogger Validating runmode of plegridy_reg2of suite plegridy
+12/01/2017 10:08:26 devpinoyLogger Intializing properties file
+12/01/2017 10:08:26 devpinoyLogger Testcase plegridy_reg2 is runnable
+12/01/2017 10:09:25 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:09:25 devpinoyLogger Validating runmode of plegridy_reg2of suite plegridy
+12/01/2017 10:09:25 devpinoyLogger Intializing properties file
+12/01/2017 10:09:25 devpinoyLogger Testcase plegridy_reg2 is runnable
+12/01/2017 10:09:58 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:09:58 devpinoyLogger Validating runmode of plegridy_reg2of suite plegridy
+12/01/2017 10:09:58 devpinoyLogger Intializing properties file
+12/01/2017 10:09:58 devpinoyLogger Testcase plegridy_reg2 is runnable
+12/01/2017 10:10:32 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:10:32 devpinoyLogger Validating runmode of plegridy_reg2of suite plegridy
+12/01/2017 10:10:32 devpinoyLogger Intializing properties file
+12/01/2017 10:10:32 devpinoyLogger Skipping test plegridy_reg2 inside Suite plegridy
+12/01/2017 10:10:32 devpinoyLogger Intializing properties file
+12/01/2017 10:10:32 devpinoyLogger Validating runmode of plegridy_login_edit_logoutof suite plegridy
+12/01/2017 10:10:32 devpinoyLogger Intializing properties file
+12/01/2017 10:10:32 devpinoyLogger Testcase plegridy_login_edit_logout is runnable
+12/01/2017 10:11:35 devpinoyLogger Validating runmode of plegridy_login_edit_logoutof suite plegridy
+12/01/2017 10:11:35 devpinoyLogger Intializing properties file
+12/01/2017 10:11:35 devpinoyLogger Testcase plegridy_login_edit_logout is runnable
+12/01/2017 10:12:20 devpinoyLogger Validating runmode of plegridy_login_edit_logoutof suite plegridy
+12/01/2017 10:12:20 devpinoyLogger Intializing properties file
+12/01/2017 10:12:20 devpinoyLogger Testcase plegridy_login_edit_logout is runnable
+12/01/2017 10:13:16 devpinoyLogger Validating runmode of plegridy_login_edit_logoutof suite plegridy
+12/01/2017 10:13:16 devpinoyLogger Intializing properties file
+12/01/2017 10:13:16 devpinoyLogger Skipping test plegridy_login_edit_logout inside Suite plegridy
+12/01/2017 10:13:16 devpinoyLogger Intializing properties file
+12/01/2017 10:13:16 devpinoyLogger Validating runmode of plegridy_assessbility_contrastof suite plegridy
+12/01/2017 10:13:16 devpinoyLogger Intializing properties file
+12/01/2017 10:13:16 devpinoyLogger Testcase plegridy_assessbility_contrast is runnable
+12/01/2017 10:14:06 devpinoyLogger Validating runmode of plegridy_assessbility_contrastof suite plegridy
+12/01/2017 10:14:06 devpinoyLogger Intializing properties file
+12/01/2017 10:14:06 devpinoyLogger Testcase plegridy_assessbility_contrast is runnable
+12/01/2017 10:14:40 devpinoyLogger Validating runmode of plegridy_assessbility_contrastof suite plegridy
+12/01/2017 10:14:40 devpinoyLogger Intializing properties file
+12/01/2017 10:14:40 devpinoyLogger Testcase plegridy_assessbility_contrast is runnable
+12/01/2017 10:15:20 devpinoyLogger Validating runmode of plegridy_assessbility_contrastof suite plegridy
+12/01/2017 10:15:20 devpinoyLogger Intializing properties file
+12/01/2017 10:15:20 devpinoyLogger Skipping test plegridy_assessbility_contrast inside Suite plegridy
+12/01/2017 10:15:20 devpinoyLogger Intializing properties file
+12/01/2017 10:15:20 devpinoyLogger Validating runmode of plegridy_Event1of suite plegridy
+12/01/2017 10:15:20 devpinoyLogger Intializing properties file
+12/01/2017 10:15:20 devpinoyLogger Testcase plegridy_Event1 is runnable
+12/01/2017 10:16:42 devpinoyLogger Validating runmode of plegridy_Event1of suite plegridy
+12/01/2017 10:16:42 devpinoyLogger Intializing properties file
+12/01/2017 10:16:42 devpinoyLogger Testcase plegridy_Event1 is runnable
+12/01/2017 10:17:50 devpinoyLogger Validating runmode of plegridy_Event1of suite plegridy
+12/01/2017 10:17:50 devpinoyLogger Intializing properties file
+12/01/2017 10:17:50 devpinoyLogger Testcase plegridy_Event1 is runnable
+12/01/2017 10:18:56 devpinoyLogger Validating runmode of plegridy_Event1of suite plegridy
+12/01/2017 10:18:56 devpinoyLogger Intializing properties file
+12/01/2017 10:18:56 devpinoyLogger Skipping test plegridy_Event1 inside Suite plegridy
+12/01/2017 10:18:56 devpinoyLogger Intializing properties file
+12/01/2017 10:18:56 devpinoyLogger Validating runmode of plegridy_Unsubscribe_CrossDomainof suite plegridy
+12/01/2017 10:18:56 devpinoyLogger Intializing properties file
+12/01/2017 10:18:56 devpinoyLogger Testcase plegridy_Unsubscribe_CrossDomain is runnable
+12/01/2017 10:20:12 devpinoyLogger Validating runmode of plegridy_Unsubscribe_CrossDomainof suite plegridy
+12/01/2017 10:20:12 devpinoyLogger Intializing properties file
+12/01/2017 10:20:12 devpinoyLogger Testcase plegridy_Unsubscribe_CrossDomain is runnable
+12/01/2017 10:20:55 devpinoyLogger Validating runmode of plegridy_Unsubscribe_CrossDomainof suite plegridy
+12/01/2017 10:20:55 devpinoyLogger Intializing properties file
+12/01/2017 10:20:55 devpinoyLogger Testcase plegridy_Unsubscribe_CrossDomain is runnable
+12/01/2017 10:21:57 devpinoyLogger Validating runmode of plegridy_Unsubscribe_CrossDomainof suite plegridy
+12/01/2017 10:21:57 devpinoyLogger Intializing properties file
+12/01/2017 10:21:57 devpinoyLogger Skipping test plegridy_Unsubscribe_CrossDomain inside Suite plegridy
+12/01/2017 10:21:57 devpinoyLogger Intializing properties file
+12/01/2017 10:21:57 devpinoyLogger Validating runmode of plegridy_MedReminderof suite plegridy
+12/01/2017 10:21:57 devpinoyLogger Intializing properties file
+12/01/2017 10:21:57 devpinoyLogger Testcase plegridy_MedReminder is runnable
+12/01/2017 10:23:14 devpinoyLogger Validating runmode of plegridy_MedReminderof suite plegridy
+12/01/2017 10:23:14 devpinoyLogger Intializing properties file
+12/01/2017 10:23:14 devpinoyLogger Testcase plegridy_MedReminder is runnable
+12/01/2017 10:24:04 devpinoyLogger Validating runmode of plegridy_MedReminderof suite plegridy
+12/01/2017 10:24:04 devpinoyLogger Intializing properties file
+12/01/2017 10:24:04 devpinoyLogger Testcase plegridy_MedReminder is runnable
+12/01/2017 10:25:07 devpinoyLogger Validating runmode of plegridy_MedReminderof suite plegridy
+12/01/2017 10:25:07 devpinoyLogger Intializing properties file
+12/01/2017 10:25:07 devpinoyLogger Skipping test plegridy_MedReminder inside Suite plegridy
+12/01/2017 10:25:07 devpinoyLogger Intializing properties file
+12/01/2017 10:25:07 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:25:07 devpinoyLogger Validating runmode of plegridy_sitemap_linksof suite plegridy
+12/01/2017 10:25:07 devpinoyLogger Intializing properties file
+12/01/2017 10:25:07 devpinoyLogger Testcase plegridy_sitemap_links is runnable
+12/01/2017 10:26:27 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:26:27 devpinoyLogger Validating runmode of plegridy_sitemap_linksof suite plegridy
+12/01/2017 10:26:27 devpinoyLogger Intializing properties file
+12/01/2017 10:26:27 devpinoyLogger Testcase plegridy_sitemap_links is runnable
+12/01/2017 10:27:17 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:27:17 devpinoyLogger Validating runmode of plegridy_sitemap_linksof suite plegridy
+12/01/2017 10:27:17 devpinoyLogger Intializing properties file
+12/01/2017 10:27:17 devpinoyLogger Testcase plegridy_sitemap_links is runnable
+12/01/2017 10:28:28 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:28:28 devpinoyLogger Validating runmode of plegridy_sitemap_linksof suite plegridy
+12/01/2017 10:28:28 devpinoyLogger Intializing properties file
+12/01/2017 10:28:28 devpinoyLogger Skipping test plegridy_sitemap_links inside Suite plegridy
+12/01/2017 10:28:28 devpinoyLogger Intializing properties file
+12/01/2017 10:28:28 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:28:28 devpinoyLogger Validating runmode of plegridy_header_linksof suite plegridy
+12/01/2017 10:28:28 devpinoyLogger Intializing properties file
+12/01/2017 10:28:28 devpinoyLogger Testcase plegridy_header_links is runnable
+12/01/2017 10:29:45 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:29:45 devpinoyLogger Validating runmode of plegridy_header_linksof suite plegridy
+12/01/2017 10:29:45 devpinoyLogger Intializing properties file
+12/01/2017 10:29:45 devpinoyLogger Testcase plegridy_header_links is runnable
+12/01/2017 10:31:04 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:31:04 devpinoyLogger Validating runmode of plegridy_header_linksof suite plegridy
+12/01/2017 10:31:04 devpinoyLogger Intializing properties file
+12/01/2017 10:31:04 devpinoyLogger Testcase plegridy_header_links is runnable
+12/01/2017 10:32:27 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:32:27 devpinoyLogger Validating runmode of plegridy_header_linksof suite plegridy
+12/01/2017 10:32:27 devpinoyLogger Intializing properties file
+12/01/2017 10:32:28 devpinoyLogger Skipping test plegridy_header_links inside Suite plegridy
+12/01/2017 10:32:28 devpinoyLogger Intializing properties file
+12/01/2017 10:32:28 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:32:28 devpinoyLogger Validating runmode of Plegridy_Forgot_Pswdof suite plegridy
+12/01/2017 10:32:28 devpinoyLogger Intializing properties file
+12/01/2017 10:32:28 devpinoyLogger Testcase Plegridy_Forgot_Pswd is runnable
+12/01/2017 10:33:22 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:33:22 devpinoyLogger Validating runmode of Plegridy_Forgot_Pswdof suite plegridy
+12/01/2017 10:33:22 devpinoyLogger Intializing properties file
+12/01/2017 10:33:22 devpinoyLogger Testcase Plegridy_Forgot_Pswd is runnable
+12/01/2017 10:34:08 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:34:08 devpinoyLogger Validating runmode of Plegridy_Forgot_Pswdof suite plegridy
+12/01/2017 10:34:08 devpinoyLogger Intializing properties file
+12/01/2017 10:34:08 devpinoyLogger Testcase Plegridy_Forgot_Pswd is runnable
+12/01/2017 10:34:51 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:34:51 devpinoyLogger Validating runmode of Plegridy_Forgot_Pswdof suite plegridy
+12/01/2017 10:34:51 devpinoyLogger Intializing properties file
+12/01/2017 10:34:51 devpinoyLogger Skipping test Plegridy_Forgot_Pswd inside Suite plegridy
+12/01/2017 10:34:51 devpinoyLogger Intializing properties file
+12/01/2017 10:34:51 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:34:51 devpinoyLogger Validating runmode of Plegridy_Remember_Meof suite plegridy
+12/01/2017 10:34:51 devpinoyLogger Intializing properties file
+12/01/2017 10:34:51 devpinoyLogger Testcase Plegridy_Remember_Me is runnable
+12/01/2017 10:35:48 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:35:48 devpinoyLogger Validating runmode of Plegridy_Remember_Meof suite plegridy
+12/01/2017 10:35:48 devpinoyLogger Intializing properties file
+12/01/2017 10:35:48 devpinoyLogger Testcase Plegridy_Remember_Me is runnable
+12/01/2017 10:36:32 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:36:32 devpinoyLogger Validating runmode of Plegridy_Remember_Meof suite plegridy
+12/01/2017 10:36:32 devpinoyLogger Intializing properties file
+12/01/2017 10:36:32 devpinoyLogger Testcase Plegridy_Remember_Me is runnable
+12/01/2017 10:37:30 devpinoyLogger Executing Regression.plegridy
+12/01/2017 10:37:30 devpinoyLogger Validating runmode of Plegridy_Remember_Meof suite plegridy
+12/01/2017 10:37:30 devpinoyLogger Intializing properties file
+12/01/2017 10:37:30 devpinoyLogger Skipping test Plegridy_Remember_Me inside Suite plegridy
+12/01/2017 10:37:30 devpinoyLogger Intializing properties file
+12/01/2017 10:37:30 devpinoyLogger Validating runmode of plegridy_Event2of suite plegridy
+12/01/2017 10:37:30 devpinoyLogger Intializing properties file
+12/01/2017 10:37:30 devpinoyLogger Testcase plegridy_Event2 is runnable
+12/01/2017 10:37:59 devpinoyLogger Validating runmode of plegridy_Event2of suite plegridy
+12/01/2017 10:37:59 devpinoyLogger Intializing properties file
+12/01/2017 10:37:59 devpinoyLogger Testcase plegridy_Event2 is runnable
+12/01/2017 10:38:27 devpinoyLogger Validating runmode of plegridy_Event2of suite plegridy
+12/01/2017 10:38:27 devpinoyLogger Intializing properties file
+12/01/2017 10:38:27 devpinoyLogger Testcase plegridy_Event2 is runnable
+12/01/2017 10:39:09 devpinoyLogger Validating runmode of plegridy_Event2of suite plegridy
+12/01/2017 10:39:09 devpinoyLogger Intializing properties file
+12/01/2017 10:39:09 devpinoyLogger Skipping test plegridy_Event2 inside Suite plegridy
+12/01/2017 10:39:09 devpinoyLogger Intializing properties file
+12/01/2017 10:39:09 devpinoyLogger Validating runmode of plegridy_Searchof suite plegridy
+12/01/2017 10:39:09 devpinoyLogger Intializing properties file
+12/01/2017 10:39:10 devpinoyLogger Testcase plegridy_Search is runnable
+12/01/2017 10:40:15 devpinoyLogger Validating runmode of plegridy_Searchof suite plegridy
+12/01/2017 10:40:15 devpinoyLogger Intializing properties file
+12/01/2017 10:40:15 devpinoyLogger Testcase plegridy_Search is runnable
+12/01/2017 10:40:59 devpinoyLogger Validating runmode of plegridy_Searchof suite plegridy
+12/01/2017 10:40:59 devpinoyLogger Intializing properties file
+12/01/2017 10:40:59 devpinoyLogger Testcase plegridy_Search is runnable
+12/01/2017 10:41:48 devpinoyLogger Validating runmode of plegridy_Searchof suite plegridy
+12/01/2017 10:41:48 devpinoyLogger Intializing properties file
+12/01/2017 10:41:48 devpinoyLogger Skipping test plegridy_Search inside Suite plegridy
+12/01/2017 10:41:48 devpinoyLogger Intializing properties file
+12/01/2017 10:41:48 devpinoyLogger Executing Regression.avonex
+12/01/2017 10:41:48 devpinoyLogger Validating runmode of avonex_reg1of suite avonex
+12/01/2017 10:41:48 devpinoyLogger Intializing properties file
+12/01/2017 10:41:48 devpinoyLogger Testcase avonex_reg1 is runnable
+12/01/2017 10:42:59 devpinoyLogger Executing Regression.avonex
+12/01/2017 10:42:59 devpinoyLogger Validating runmode of avonex_reg1of suite avonex
+12/01/2017 10:42:59 devpinoyLogger Intializing properties file
+12/01/2017 10:42:59 devpinoyLogger Testcase avonex_reg1 is runnable
+12/01/2017 10:43:35 devpinoyLogger Executing Regression.avonex
+12/01/2017 10:43:35 devpinoyLogger Validating runmode of avonex_reg1of suite avonex
+12/01/2017 10:43:35 devpinoyLogger Intializing properties file
+12/01/2017 10:43:35 devpinoyLogger Testcase avonex_reg1 is runnable
+12/01/2017 10:44:09 devpinoyLogger Executing Regression.avonex
+12/01/2017 10:44:09 devpinoyLogger Validating runmode of avonex_reg1of suite avonex
+12/01/2017 10:44:09 devpinoyLogger Intializing properties file
+12/01/2017 10:44:09 devpinoyLogger Skipping test avonex_reg1 inside Suite avonex
+12/01/2017 10:44:09 devpinoyLogger Intializing properties file
+12/01/2017 10:44:09 devpinoyLogger Executing Regression.avonex
+12/01/2017 10:44:09 devpinoyLogger Validating runmode of avonex_reg2of suite avonex
+12/01/2017 10:44:09 devpinoyLogger Intializing properties file
+12/01/2017 10:44:09 devpinoyLogger Testcase avonex_reg2 is runnable
+12/01/2017 10:44:54 devpinoyLogger Executing Regression.avonex
+12/01/2017 10:44:54 devpinoyLogger Validating runmode of avonex_reg2of suite avonex
+12/01/2017 10:44:54 devpinoyLogger Intializing properties file
+12/01/2017 10:44:54 devpinoyLogger Testcase avonex_reg2 is runnable
+12/01/2017 10:45:24 devpinoyLogger Executing Regression.avonex
+12/01/2017 10:45:24 devpinoyLogger Validating runmode of avonex_reg2of suite avonex
+12/01/2017 10:45:24 devpinoyLogger Intializing properties file
+12/01/2017 10:45:24 devpinoyLogger Testcase avonex_reg2 is runnable
+12/01/2017 10:45:57 devpinoyLogger Executing Regression.avonex
+12/01/2017 10:45:57 devpinoyLogger Validating runmode of avonex_reg2of suite avonex
+12/01/2017 10:45:57 devpinoyLogger Intializing properties file
+12/01/2017 10:45:57 devpinoyLogger Skipping test avonex_reg2 inside Suite avonex
+12/01/2017 10:45:57 devpinoyLogger Intializing properties file
+12/01/2017 10:45:57 devpinoyLogger Validating runmode of avonex_login_edit_logoutof suite avonex
+12/01/2017 10:45:57 devpinoyLogger Intializing properties file
+12/01/2017 10:45:57 devpinoyLogger Testcase avonex_login_edit_logout is runnable
+12/01/2017 10:46:51 devpinoyLogger Validating runmode of avonex_login_edit_logoutof suite avonex
+12/01/2017 10:46:51 devpinoyLogger Intializing properties file
+12/01/2017 10:46:51 devpinoyLogger Testcase avonex_login_edit_logout is runnable
+12/01/2017 10:47:29 devpinoyLogger Validating runmode of avonex_login_edit_logoutof suite avonex
+12/01/2017 10:47:29 devpinoyLogger Intializing properties file
+12/01/2017 10:47:29 devpinoyLogger Testcase avonex_login_edit_logout is runnable
+12/01/2017 10:48:13 devpinoyLogger Validating runmode of avonex_login_edit_logoutof suite avonex
+12/01/2017 10:48:13 devpinoyLogger Intializing properties file
+12/01/2017 10:48:13 devpinoyLogger Skipping test avonex_login_edit_logout inside Suite avonex
+12/01/2017 10:48:13 devpinoyLogger Intializing properties file
+12/01/2017 10:48:13 devpinoyLogger Validating runmode of avonex_assessbility_contrastof suite avonex
+12/01/2017 10:48:13 devpinoyLogger Intializing properties file
+12/01/2017 10:48:13 devpinoyLogger Testcase avonex_assessbility_contrast is runnable
+12/01/2017 10:48:58 devpinoyLogger Validating runmode of avonex_assessbility_contrastof suite avonex
+12/01/2017 10:48:58 devpinoyLogger Intializing properties file
+12/01/2017 10:48:58 devpinoyLogger Testcase avonex_assessbility_contrast is runnable
+12/01/2017 10:49:26 devpinoyLogger Validating runmode of avonex_assessbility_contrastof suite avonex
+12/01/2017 10:49:26 devpinoyLogger Intializing properties file
+12/01/2017 10:49:26 devpinoyLogger Testcase avonex_assessbility_contrast is runnable
+12/01/2017 10:50:06 devpinoyLogger Validating runmode of avonex_assessbility_contrastof suite avonex
+12/01/2017 10:50:06 devpinoyLogger Intializing properties file
+12/01/2017 10:50:06 devpinoyLogger Skipping test avonex_assessbility_contrast inside Suite avonex
+12/01/2017 10:50:06 devpinoyLogger Intializing properties file
+12/01/2017 10:50:06 devpinoyLogger Validating runmode of avonex_Event1of suite avonex
+12/01/2017 10:50:06 devpinoyLogger Intializing properties file
+12/01/2017 10:50:06 devpinoyLogger Testcase avonex_Event1 is runnable
+12/01/2017 10:51:23 devpinoyLogger Validating runmode of avonex_Event1of suite avonex
+12/01/2017 10:51:23 devpinoyLogger Intializing properties file
+12/01/2017 10:51:23 devpinoyLogger Testcase avonex_Event1 is runnable
+12/01/2017 10:52:29 devpinoyLogger Validating runmode of avonex_Event1of suite avonex
+12/01/2017 10:52:29 devpinoyLogger Intializing properties file
+12/01/2017 10:52:29 devpinoyLogger Testcase avonex_Event1 is runnable
+12/01/2017 10:53:33 devpinoyLogger Validating runmode of avonex_Event1of suite avonex
+12/01/2017 10:53:33 devpinoyLogger Intializing properties file
+12/01/2017 10:53:33 devpinoyLogger Skipping test avonex_Event1 inside Suite avonex
+12/01/2017 10:53:33 devpinoyLogger Intializing properties file
+12/01/2017 10:53:33 devpinoyLogger Validating runmode of avonex_Unsubscribe_CrossDomainof suite avonex
+12/01/2017 10:53:33 devpinoyLogger Intializing properties file
+12/01/2017 10:53:33 devpinoyLogger Testcase avonex_Unsubscribe_CrossDomain is runnable
+12/01/2017 10:54:47 devpinoyLogger Validating runmode of avonex_Unsubscribe_CrossDomainof suite avonex
+12/01/2017 10:54:47 devpinoyLogger Intializing properties file
+12/01/2017 10:54:47 devpinoyLogger Testcase avonex_Unsubscribe_CrossDomain is runnable
+12/01/2017 10:55:30 devpinoyLogger Validating runmode of avonex_Unsubscribe_CrossDomainof suite avonex
+12/01/2017 10:55:30 devpinoyLogger Intializing properties file
+12/01/2017 10:55:30 devpinoyLogger Testcase avonex_Unsubscribe_CrossDomain is runnable
+12/01/2017 10:56:32 devpinoyLogger Validating runmode of avonex_Unsubscribe_CrossDomainof suite avonex
+12/01/2017 10:56:32 devpinoyLogger Intializing properties file
+12/01/2017 10:56:32 devpinoyLogger Skipping test avonex_Unsubscribe_CrossDomain inside Suite avonex
+12/01/2017 10:56:32 devpinoyLogger Intializing properties file
+12/01/2017 10:56:32 devpinoyLogger Validating runmode of avonex_DocGuideof suite avonex
+12/01/2017 10:56:32 devpinoyLogger Intializing properties file
+12/01/2017 10:56:32 devpinoyLogger Testcase avonex_DocGuide is runnable
+12/01/2017 10:57:05 devpinoyLogger Validating runmode of avonex_DocGuideof suite avonex
+12/01/2017 10:57:05 devpinoyLogger Intializing properties file
+12/01/2017 10:57:05 devpinoyLogger Testcase avonex_DocGuide is runnable
+12/01/2017 10:57:22 devpinoyLogger Validating runmode of avonex_DocGuideof suite avonex
+12/01/2017 10:57:22 devpinoyLogger Intializing properties file
+12/01/2017 10:57:22 devpinoyLogger Testcase avonex_DocGuide is runnable
+12/01/2017 10:57:45 devpinoyLogger Validating runmode of avonex_DocGuideof suite avonex
+12/01/2017 10:57:45 devpinoyLogger Intializing properties file
+12/01/2017 10:57:45 devpinoyLogger Skipping test avonex_DocGuide inside Suite avonex
+12/01/2017 10:57:45 devpinoyLogger Intializing properties file
+12/01/2017 10:57:45 devpinoyLogger Validating runmode of avonex_header_linksof suite avonex
+12/01/2017 10:57:45 devpinoyLogger Intializing properties file
+12/01/2017 10:57:45 devpinoyLogger Testcase avonex_header_links is runnable
+12/01/2017 10:58:52 devpinoyLogger Validating runmode of avonex_header_linksof suite avonex
+12/01/2017 10:58:52 devpinoyLogger Intializing properties file
+12/01/2017 10:58:52 devpinoyLogger Testcase avonex_header_links is runnable
+12/01/2017 10:59:40 devpinoyLogger Validating runmode of avonex_header_linksof suite avonex
+12/01/2017 10:59:40 devpinoyLogger Intializing properties file
+12/01/2017 10:59:40 devpinoyLogger Testcase avonex_header_links is runnable
+12/01/2017 11:00:39 devpinoyLogger Validating runmode of avonex_header_linksof suite avonex
+12/01/2017 11:00:39 devpinoyLogger Intializing properties file
+12/01/2017 11:00:39 devpinoyLogger Skipping test avonex_header_links inside Suite avonex
+12/01/2017 11:00:39 devpinoyLogger Intializing properties file
+12/01/2017 11:00:39 devpinoyLogger Validating runmode of avonex_sitemap_linksof suite avonex
+12/01/2017 11:00:39 devpinoyLogger Intializing properties file
+12/01/2017 11:00:39 devpinoyLogger Testcase avonex_sitemap_links is runnable
+12/01/2017 11:01:41 devpinoyLogger Validating runmode of avonex_sitemap_linksof suite avonex
+12/01/2017 11:01:41 devpinoyLogger Intializing properties file
+12/01/2017 11:01:41 devpinoyLogger Testcase avonex_sitemap_links is runnable
+12/01/2017 11:02:32 devpinoyLogger Validating runmode of avonex_sitemap_linksof suite avonex
+12/01/2017 11:02:32 devpinoyLogger Intializing properties file
+12/01/2017 11:02:32 devpinoyLogger Testcase avonex_sitemap_links is runnable
+12/01/2017 11:03:28 devpinoyLogger Validating runmode of avonex_sitemap_linksof suite avonex
+12/01/2017 11:03:28 devpinoyLogger Intializing properties file
+12/01/2017 11:03:28 devpinoyLogger Skipping test avonex_sitemap_links inside Suite avonex
+12/01/2017 11:03:28 devpinoyLogger Intializing properties file
+12/01/2017 11:03:28 devpinoyLogger Validating runmode of Avonex_Forgot_Pswdof suite avonex
+12/01/2017 11:03:28 devpinoyLogger Intializing properties file
+12/01/2017 11:03:28 devpinoyLogger Testcase Avonex_Forgot_Pswd is runnable
+12/01/2017 11:04:19 devpinoyLogger Validating runmode of Avonex_Forgot_Pswdof suite avonex
+12/01/2017 11:04:19 devpinoyLogger Intializing properties file
+12/01/2017 11:04:19 devpinoyLogger Testcase Avonex_Forgot_Pswd is runnable
+12/01/2017 11:04:59 devpinoyLogger Validating runmode of Avonex_Forgot_Pswdof suite avonex
+12/01/2017 11:04:59 devpinoyLogger Intializing properties file
+12/01/2017 11:04:59 devpinoyLogger Testcase Avonex_Forgot_Pswd is runnable
+12/01/2017 11:05:39 devpinoyLogger Validating runmode of Avonex_Forgot_Pswdof suite avonex
+12/01/2017 11:05:39 devpinoyLogger Intializing properties file
+12/01/2017 11:05:39 devpinoyLogger Skipping test Avonex_Forgot_Pswd inside Suite avonex
+12/01/2017 11:05:39 devpinoyLogger Intializing properties file
+12/01/2017 11:05:39 devpinoyLogger Validating runmode of Avonex_Remember_Meof suite avonex
+12/01/2017 11:05:39 devpinoyLogger Intializing properties file
+12/01/2017 11:05:39 devpinoyLogger Testcase Avonex_Remember_Me is runnable
+12/01/2017 11:06:31 devpinoyLogger Validating runmode of Avonex_Remember_Meof suite avonex
+12/01/2017 11:06:31 devpinoyLogger Intializing properties file
+12/01/2017 11:06:31 devpinoyLogger Testcase Avonex_Remember_Me is runnable
+12/01/2017 11:07:15 devpinoyLogger Validating runmode of Avonex_Remember_Meof suite avonex
+12/01/2017 11:07:15 devpinoyLogger Intializing properties file
+12/01/2017 11:07:15 devpinoyLogger Testcase Avonex_Remember_Me is runnable
+12/01/2017 11:08:02 devpinoyLogger Validating runmode of Avonex_Remember_Meof suite avonex
+12/01/2017 11:08:02 devpinoyLogger Intializing properties file
+12/01/2017 11:08:02 devpinoyLogger Skipping test Avonex_Remember_Me inside Suite avonex
+12/01/2017 11:08:02 devpinoyLogger Intializing properties file
+12/01/2017 11:08:02 devpinoyLogger Validating runmode of avonex_Event2of suite avonex
+12/01/2017 11:08:02 devpinoyLogger Intializing properties file
+12/01/2017 11:08:02 devpinoyLogger Testcase avonex_Event2 is runnable
+12/01/2017 11:08:51 devpinoyLogger Validating runmode of avonex_Event2of suite avonex
+12/01/2017 11:08:51 devpinoyLogger Intializing properties file
+12/01/2017 11:08:51 devpinoyLogger Testcase avonex_Event2 is runnable
+12/01/2017 11:09:20 devpinoyLogger Validating runmode of avonex_Event2of suite avonex
+12/01/2017 11:09:20 devpinoyLogger Intializing properties file
+12/01/2017 11:09:20 devpinoyLogger Testcase avonex_Event2 is runnable
+12/01/2017 11:09:49 devpinoyLogger Validating runmode of avonex_Event2of suite avonex
+12/01/2017 11:09:49 devpinoyLogger Intializing properties file
+12/01/2017 11:09:49 devpinoyLogger Skipping test avonex_Event2 inside Suite avonex
+12/01/2017 11:09:49 devpinoyLogger Intializing properties file
+12/01/2017 11:09:49 devpinoyLogger Validating runmode of avonex_Searchof suite avonex
+12/01/2017 11:09:49 devpinoyLogger Intializing properties file
+12/01/2017 11:09:49 devpinoyLogger Testcase avonex_Search is runnable
+12/01/2017 11:10:53 devpinoyLogger Validating runmode of avonex_Searchof suite avonex
+12/01/2017 11:10:53 devpinoyLogger Intializing properties file
+12/01/2017 11:10:53 devpinoyLogger Testcase avonex_Search is runnable
+12/01/2017 11:11:31 devpinoyLogger Validating runmode of avonex_Searchof suite avonex
+12/01/2017 11:11:31 devpinoyLogger Intializing properties file
+12/01/2017 11:11:31 devpinoyLogger Testcase avonex_Search is runnable
+12/01/2017 11:12:14 devpinoyLogger Validating runmode of avonex_Searchof suite avonex
+12/01/2017 11:12:14 devpinoyLogger Intializing properties file
+12/01/2017 11:12:14 devpinoyLogger Skipping test avonex_Search inside Suite avonex
+12/01/2017 11:12:14 devpinoyLogger Intializing properties file
+12/01/2017 11:12:14 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:12:14 devpinoyLogger Validating runmode of tysabri_reg1of suite tysabri
+12/01/2017 11:12:14 devpinoyLogger Intializing properties file
+12/01/2017 11:12:14 devpinoyLogger Testcase tysabri_reg1 is runnable
+12/01/2017 11:13:12 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:13:12 devpinoyLogger Validating runmode of tysabri_reg1of suite tysabri
+12/01/2017 11:13:12 devpinoyLogger Intializing properties file
+12/01/2017 11:13:12 devpinoyLogger Testcase tysabri_reg1 is runnable
+12/01/2017 11:13:46 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:13:46 devpinoyLogger Validating runmode of tysabri_reg1of suite tysabri
+12/01/2017 11:13:46 devpinoyLogger Intializing properties file
+12/01/2017 11:13:46 devpinoyLogger Testcase tysabri_reg1 is runnable
+12/01/2017 11:14:19 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:14:19 devpinoyLogger Validating runmode of tysabri_reg1of suite tysabri
+12/01/2017 11:14:19 devpinoyLogger Intializing properties file
+12/01/2017 11:14:19 devpinoyLogger Skipping test tysabri_reg1 inside Suite tysabri
+12/01/2017 11:14:19 devpinoyLogger Intializing properties file
+12/01/2017 11:14:19 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:14:19 devpinoyLogger Validating runmode of tysabri_reg2of suite tysabri
+12/01/2017 11:14:19 devpinoyLogger Intializing properties file
+12/01/2017 11:14:19 devpinoyLogger Testcase tysabri_reg2 is runnable
+12/01/2017 11:15:10 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:15:10 devpinoyLogger Validating runmode of tysabri_reg2of suite tysabri
+12/01/2017 11:15:10 devpinoyLogger Intializing properties file
+12/01/2017 11:15:10 devpinoyLogger Testcase tysabri_reg2 is runnable
+12/01/2017 11:15:38 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:15:38 devpinoyLogger Validating runmode of tysabri_reg2of suite tysabri
+12/01/2017 11:15:38 devpinoyLogger Intializing properties file
+12/01/2017 11:15:38 devpinoyLogger Testcase tysabri_reg2 is runnable
+12/01/2017 11:16:10 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:16:10 devpinoyLogger Validating runmode of tysabri_reg2of suite tysabri
+12/01/2017 11:16:10 devpinoyLogger Intializing properties file
+12/01/2017 11:16:10 devpinoyLogger Skipping test tysabri_reg2 inside Suite tysabri
+12/01/2017 11:16:10 devpinoyLogger Intializing properties file
+12/01/2017 11:16:10 devpinoyLogger Validating runmode of tysabri_login_edit_logoutof suite tysabri
+12/01/2017 11:16:10 devpinoyLogger Intializing properties file
+12/01/2017 11:16:10 devpinoyLogger Testcase tysabri_login_edit_logout is runnable
+12/01/2017 11:17:08 devpinoyLogger Validating runmode of tysabri_login_edit_logoutof suite tysabri
+12/01/2017 11:17:08 devpinoyLogger Intializing properties file
+12/01/2017 11:17:08 devpinoyLogger Testcase tysabri_login_edit_logout is runnable
+12/01/2017 11:17:49 devpinoyLogger Validating runmode of tysabri_login_edit_logoutof suite tysabri
+12/01/2017 11:17:49 devpinoyLogger Intializing properties file
+12/01/2017 11:17:50 devpinoyLogger Testcase tysabri_login_edit_logout is runnable
+12/01/2017 11:18:41 devpinoyLogger Validating runmode of tysabri_login_edit_logoutof suite tysabri
+12/01/2017 11:18:41 devpinoyLogger Intializing properties file
+12/01/2017 11:18:41 devpinoyLogger Skipping test tysabri_login_edit_logout inside Suite tysabri
+12/01/2017 11:18:41 devpinoyLogger Intializing properties file
+12/01/2017 11:18:41 devpinoyLogger Validating runmode of tysabri_assessbility_contrastof suite tysabri
+12/01/2017 11:18:41 devpinoyLogger Intializing properties file
+12/01/2017 11:18:41 devpinoyLogger Testcase tysabri_assessbility_contrast is runnable
+12/01/2017 11:19:28 devpinoyLogger Validating runmode of tysabri_assessbility_contrastof suite tysabri
+12/01/2017 11:19:28 devpinoyLogger Intializing properties file
+12/01/2017 11:19:28 devpinoyLogger Testcase tysabri_assessbility_contrast is runnable
+12/01/2017 11:19:59 devpinoyLogger Validating runmode of tysabri_assessbility_contrastof suite tysabri
+12/01/2017 11:19:59 devpinoyLogger Intializing properties file
+12/01/2017 11:19:59 devpinoyLogger Testcase tysabri_assessbility_contrast is runnable
+12/01/2017 11:20:41 devpinoyLogger Validating runmode of tysabri_assessbility_contrastof suite tysabri
+12/01/2017 11:20:41 devpinoyLogger Intializing properties file
+12/01/2017 11:20:41 devpinoyLogger Skipping test tysabri_assessbility_contrast inside Suite tysabri
+12/01/2017 11:20:41 devpinoyLogger Intializing properties file
+12/01/2017 11:20:41 devpinoyLogger Validating runmode of tysabri_Event1of suite tysabri
+12/01/2017 11:20:41 devpinoyLogger Intializing properties file
+12/01/2017 11:20:41 devpinoyLogger Testcase tysabri_Event1 is runnable
+12/01/2017 11:21:55 devpinoyLogger Validating runmode of tysabri_Event1of suite tysabri
+12/01/2017 11:21:55 devpinoyLogger Intializing properties file
+12/01/2017 11:21:55 devpinoyLogger Testcase tysabri_Event1 is runnable
+12/01/2017 11:23:00 devpinoyLogger Validating runmode of tysabri_Event1of suite tysabri
+12/01/2017 11:23:00 devpinoyLogger Intializing properties file
+12/01/2017 11:23:00 devpinoyLogger Testcase tysabri_Event1 is runnable
+12/01/2017 11:24:01 devpinoyLogger Validating runmode of tysabri_Event1of suite tysabri
+12/01/2017 11:24:01 devpinoyLogger Intializing properties file
+12/01/2017 11:24:01 devpinoyLogger Skipping test tysabri_Event1 inside Suite tysabri
+12/01/2017 11:24:01 devpinoyLogger Intializing properties file
+12/01/2017 11:24:01 devpinoyLogger Validating runmode of tysabri_Unsubscribe_CrossDomainof suite tysabri
+12/01/2017 11:24:01 devpinoyLogger Intializing properties file
+12/01/2017 11:24:01 devpinoyLogger Testcase tysabri_Unsubscribe_CrossDomain is runnable
+12/01/2017 11:25:16 devpinoyLogger Validating runmode of tysabri_Unsubscribe_CrossDomainof suite tysabri
+12/01/2017 11:25:16 devpinoyLogger Intializing properties file
+12/01/2017 11:25:16 devpinoyLogger Testcase tysabri_Unsubscribe_CrossDomain is runnable
+12/01/2017 11:26:00 devpinoyLogger Validating runmode of tysabri_Unsubscribe_CrossDomainof suite tysabri
+12/01/2017 11:26:00 devpinoyLogger Intializing properties file
+12/01/2017 11:26:00 devpinoyLogger Testcase tysabri_Unsubscribe_CrossDomain is runnable
+12/01/2017 11:27:01 devpinoyLogger Validating runmode of tysabri_Unsubscribe_CrossDomainof suite tysabri
+12/01/2017 11:27:01 devpinoyLogger Intializing properties file
+12/01/2017 11:27:01 devpinoyLogger Skipping test tysabri_Unsubscribe_CrossDomain inside Suite tysabri
+12/01/2017 11:27:01 devpinoyLogger Intializing properties file
+12/01/2017 11:27:01 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:27:01 devpinoyLogger Validating runmode of tysabri_sitemap_linksof suite tysabri
+12/01/2017 11:27:01 devpinoyLogger Intializing properties file
+12/01/2017 11:27:01 devpinoyLogger Testcase tysabri_sitemap_links is runnable
+12/01/2017 11:28:09 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:28:09 devpinoyLogger Validating runmode of tysabri_sitemap_linksof suite tysabri
+12/01/2017 11:28:09 devpinoyLogger Intializing properties file
+12/01/2017 11:28:10 devpinoyLogger Testcase tysabri_sitemap_links is runnable
+12/01/2017 11:28:59 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:28:59 devpinoyLogger Validating runmode of tysabri_sitemap_linksof suite tysabri
+12/01/2017 11:28:59 devpinoyLogger Intializing properties file
+12/01/2017 11:28:59 devpinoyLogger Testcase tysabri_sitemap_links is runnable
+12/01/2017 11:29:57 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:29:57 devpinoyLogger Validating runmode of tysabri_sitemap_linksof suite tysabri
+12/01/2017 11:29:57 devpinoyLogger Intializing properties file
+12/01/2017 11:29:57 devpinoyLogger Skipping test tysabri_sitemap_links inside Suite tysabri
+12/01/2017 11:29:57 devpinoyLogger Intializing properties file
+12/01/2017 11:29:57 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:29:57 devpinoyLogger Validating runmode of tysabri_header_linksof suite tysabri
+12/01/2017 11:29:57 devpinoyLogger Intializing properties file
+12/01/2017 11:29:57 devpinoyLogger Testcase tysabri_header_links is runnable
+12/01/2017 11:31:01 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:31:01 devpinoyLogger Validating runmode of tysabri_header_linksof suite tysabri
+12/01/2017 11:31:01 devpinoyLogger Intializing properties file
+12/01/2017 11:31:01 devpinoyLogger Testcase tysabri_header_links is runnable
+12/01/2017 11:31:46 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:31:46 devpinoyLogger Validating runmode of tysabri_header_linksof suite tysabri
+12/01/2017 11:31:46 devpinoyLogger Intializing properties file
+12/01/2017 11:31:46 devpinoyLogger Testcase tysabri_header_links is runnable
+12/01/2017 11:32:36 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:32:36 devpinoyLogger Validating runmode of tysabri_header_linksof suite tysabri
+12/01/2017 11:32:36 devpinoyLogger Intializing properties file
+12/01/2017 11:32:36 devpinoyLogger Skipping test tysabri_header_links inside Suite tysabri
+12/01/2017 11:32:36 devpinoyLogger Intializing properties file
+12/01/2017 11:32:36 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:32:36 devpinoyLogger Validating runmode of Tysabri_Forgot_Pswdof suite tysabri
+12/01/2017 11:32:36 devpinoyLogger Intializing properties file
+12/01/2017 11:32:36 devpinoyLogger Testcase Tysabri_Forgot_Pswd is runnable
+12/01/2017 11:33:26 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:33:26 devpinoyLogger Validating runmode of Tysabri_Forgot_Pswdof suite tysabri
+12/01/2017 11:33:26 devpinoyLogger Intializing properties file
+12/01/2017 11:33:26 devpinoyLogger Testcase Tysabri_Forgot_Pswd is runnable
+12/01/2017 11:34:07 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:34:07 devpinoyLogger Validating runmode of Tysabri_Forgot_Pswdof suite tysabri
+12/01/2017 11:34:07 devpinoyLogger Intializing properties file
+12/01/2017 11:34:08 devpinoyLogger Testcase Tysabri_Forgot_Pswd is runnable
+12/01/2017 11:34:50 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:34:50 devpinoyLogger Validating runmode of Tysabri_Forgot_Pswdof suite tysabri
+12/01/2017 11:34:50 devpinoyLogger Intializing properties file
+12/01/2017 11:34:50 devpinoyLogger Skipping test Tysabri_Forgot_Pswd inside Suite tysabri
+12/01/2017 11:34:50 devpinoyLogger Intializing properties file
+12/01/2017 11:34:50 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:34:50 devpinoyLogger Validating runmode of Tysabri_Remember_Meof suite tysabri
+12/01/2017 11:34:50 devpinoyLogger Intializing properties file
+12/01/2017 11:34:50 devpinoyLogger Testcase Tysabri_Remember_Me is runnable
+12/01/2017 11:35:45 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:35:45 devpinoyLogger Validating runmode of Tysabri_Remember_Meof suite tysabri
+12/01/2017 11:35:45 devpinoyLogger Intializing properties file
+12/01/2017 11:35:45 devpinoyLogger Testcase Tysabri_Remember_Me is runnable
+12/01/2017 11:36:26 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:36:26 devpinoyLogger Validating runmode of Tysabri_Remember_Meof suite tysabri
+12/01/2017 11:36:26 devpinoyLogger Intializing properties file
+12/01/2017 11:36:26 devpinoyLogger Testcase Tysabri_Remember_Me is runnable
+12/01/2017 11:37:10 devpinoyLogger Executing Regression.tysabri
+12/01/2017 11:37:10 devpinoyLogger Validating runmode of Tysabri_Remember_Meof suite tysabri
+12/01/2017 11:37:10 devpinoyLogger Intializing properties file
+12/01/2017 11:37:10 devpinoyLogger Skipping test Tysabri_Remember_Me inside Suite tysabri
+12/01/2017 11:37:10 devpinoyLogger Intializing properties file
+12/01/2017 11:37:10 devpinoyLogger Validating runmode of tysabri_Event2of suite tysabri
+12/01/2017 11:37:10 devpinoyLogger Intializing properties file
+12/01/2017 11:37:10 devpinoyLogger Testcase tysabri_Event2 is runnable
+12/01/2017 11:38:35 devpinoyLogger Validating runmode of tysabri_Event2of suite tysabri
+12/01/2017 11:38:35 devpinoyLogger Intializing properties file
+12/01/2017 11:38:35 devpinoyLogger Testcase tysabri_Event2 is runnable
+12/01/2017 11:39:36 devpinoyLogger Validating runmode of tysabri_Event2of suite tysabri
+12/01/2017 11:39:36 devpinoyLogger Intializing properties file
+12/01/2017 11:39:36 devpinoyLogger Testcase tysabri_Event2 is runnable
+12/01/2017 11:40:04 devpinoyLogger Validating runmode of tysabri_Event2of suite tysabri
+12/01/2017 11:40:04 devpinoyLogger Intializing properties file
+12/01/2017 11:40:04 devpinoyLogger Skipping test tysabri_Event2 inside Suite tysabri
+12/01/2017 11:40:04 devpinoyLogger Intializing properties file
+12/01/2017 11:40:04 devpinoyLogger Validating runmode of tysabri_Searchof suite tysabri
+12/01/2017 11:40:04 devpinoyLogger Intializing properties file
+12/01/2017 11:40:04 devpinoyLogger Testcase tysabri_Search is runnable
+12/01/2017 11:41:33 devpinoyLogger Validating runmode of tysabri_Searchof suite tysabri
+12/01/2017 11:41:33 devpinoyLogger Intializing properties file
+12/01/2017 11:41:33 devpinoyLogger Testcase tysabri_Search is runnable
+12/01/2017 11:42:44 devpinoyLogger Validating runmode of tysabri_Searchof suite tysabri
+12/01/2017 11:42:44 devpinoyLogger Intializing properties file
+12/01/2017 11:42:44 devpinoyLogger Testcase tysabri_Search is runnable
+12/01/2017 11:44:01 devpinoyLogger Validating runmode of tysabri_Searchof suite tysabri
+12/01/2017 11:44:01 devpinoyLogger Intializing properties file
+12/01/2017 11:44:01 devpinoyLogger Skipping test tysabri_Search inside Suite tysabri
+12/01/2017 11:44:01 devpinoyLogger Intializing properties file
+12/01/2017 11:44:01 devpinoyLogger Executing Regression.Tecfidera
+12/01/2017 11:44:01 devpinoyLogger Validating runmode of tecfidera_regof suite tecfidera
+12/01/2017 11:44:01 devpinoyLogger Intializing properties file
+12/01/2017 11:44:01 devpinoyLogger Testcase tecfidera_reg is runnable
+12/01/2017 11:44:55 devpinoyLogger Executing Regression.Tecfidera
+12/01/2017 11:44:55 devpinoyLogger Validating runmode of tecfidera_regof suite tecfidera
+12/01/2017 11:44:55 devpinoyLogger Intializing properties file
+12/01/2017 11:44:55 devpinoyLogger Testcase tecfidera_reg is runnable
+12/01/2017 11:45:25 devpinoyLogger Executing Regression.Tecfidera
+12/01/2017 11:45:25 devpinoyLogger Validating runmode of tecfidera_regof suite tecfidera
+12/01/2017 11:45:25 devpinoyLogger Intializing properties file
+12/01/2017 11:45:25 devpinoyLogger Testcase tecfidera_reg is runnable
+12/01/2017 11:45:53 devpinoyLogger Executing Regression.Tecfidera
+12/01/2017 11:45:53 devpinoyLogger Validating runmode of tecfidera_regof suite tecfidera
+12/01/2017 11:45:53 devpinoyLogger Intializing properties file
+12/01/2017 11:45:53 devpinoyLogger Skipping test tecfidera_reg inside Suite tecfidera
+12/01/2017 11:45:53 devpinoyLogger Intializing properties file
+12/01/2017 11:45:53 devpinoyLogger Validating runmode of tecfidera_login_edit_logoutof suite tecfidera
+12/01/2017 11:45:53 devpinoyLogger Intializing properties file
+12/01/2017 11:45:53 devpinoyLogger Testcase tecfidera_login_edit_logout is runnable
+12/01/2017 11:46:54 devpinoyLogger Validating runmode of tecfidera_login_edit_logoutof suite tecfidera
+12/01/2017 11:46:54 devpinoyLogger Intializing properties file
+12/01/2017 11:46:54 devpinoyLogger Testcase tecfidera_login_edit_logout is runnable
+12/01/2017 11:47:43 devpinoyLogger Validating runmode of tecfidera_login_edit_logoutof suite tecfidera
+12/01/2017 11:47:43 devpinoyLogger Intializing properties file
+12/01/2017 11:47:43 devpinoyLogger Testcase tecfidera_login_edit_logout is runnable
+12/01/2017 11:48:30 devpinoyLogger Validating runmode of tecfidera_login_edit_logoutof suite tecfidera
+12/01/2017 11:48:30 devpinoyLogger Intializing properties file
+12/01/2017 11:48:30 devpinoyLogger Skipping test tecfidera_login_edit_logout inside Suite tecfidera
+12/01/2017 11:48:30 devpinoyLogger Intializing properties file
+12/01/2017 11:48:30 devpinoyLogger Executing Regression.Tecfidera
+12/01/2017 11:48:30 devpinoyLogger Validating runmode of tecfidera_Remember_Meof suite tecfidera
+12/01/2017 11:48:30 devpinoyLogger Intializing properties file
+12/01/2017 11:48:30 devpinoyLogger Testcase tecfidera_Remember_Me is runnable
+12/01/2017 11:49:19 devpinoyLogger Executing Regression.Tecfidera
+12/01/2017 11:49:19 devpinoyLogger Validating runmode of tecfidera_Remember_Meof suite tecfidera
+12/01/2017 11:49:19 devpinoyLogger Intializing properties file
+12/01/2017 11:49:19 devpinoyLogger Testcase tecfidera_Remember_Me is runnable
+12/01/2017 11:50:01 devpinoyLogger Executing Regression.Tecfidera
+12/01/2017 11:50:01 devpinoyLogger Validating runmode of tecfidera_Remember_Meof suite tecfidera
+12/01/2017 11:50:01 devpinoyLogger Intializing properties file
+12/01/2017 11:50:02 devpinoyLogger Testcase tecfidera_Remember_Me is runnable
+12/01/2017 11:50:45 devpinoyLogger Executing Regression.Tecfidera
+12/01/2017 11:50:45 devpinoyLogger Validating runmode of tecfidera_Remember_Meof suite tecfidera
+12/01/2017 11:50:45 devpinoyLogger Intializing properties file
+12/01/2017 11:50:45 devpinoyLogger Skipping test tecfidera_Remember_Me inside Suite tecfidera
+12/01/2017 11:50:45 devpinoyLogger Intializing properties file
+12/01/2017 11:50:45 devpinoyLogger Executing Regression.Tecfidera
+12/01/2017 11:50:45 devpinoyLogger Validating runmode of tecfidera_Forgot_Pswdof suite tecfidera
+12/01/2017 11:50:45 devpinoyLogger Intializing properties file
+12/01/2017 11:50:45 devpinoyLogger Testcase tecfidera_Forgot_Pswd is runnable
+12/01/2017 11:51:38 devpinoyLogger Executing Regression.Tecfidera
+12/01/2017 11:51:38 devpinoyLogger Validating runmode of tecfidera_Forgot_Pswdof suite tecfidera
+12/01/2017 11:51:38 devpinoyLogger Intializing properties file
+12/01/2017 11:51:38 devpinoyLogger Testcase tecfidera_Forgot_Pswd is runnable
+12/01/2017 11:52:30 devpinoyLogger Executing Regression.Tecfidera
+12/01/2017 11:52:30 devpinoyLogger Validating runmode of tecfidera_Forgot_Pswdof suite tecfidera
+12/01/2017 11:52:30 devpinoyLogger Intializing properties file
+12/01/2017 11:52:30 devpinoyLogger Testcase tecfidera_Forgot_Pswd is runnable
+12/01/2017 11:53:11 devpinoyLogger Executing Regression.Tecfidera
+12/01/2017 11:53:11 devpinoyLogger Validating runmode of tecfidera_Forgot_Pswdof suite tecfidera
+12/01/2017 11:53:11 devpinoyLogger Intializing properties file
+12/01/2017 11:53:11 devpinoyLogger Skipping test tecfidera_Forgot_Pswd inside Suite tecfidera
+12/01/2017 11:53:11 devpinoyLogger Intializing properties file
+12/01/2017 11:53:11 devpinoyLogger Validating runmode of tecfidera_assessbility_contrastof suite tecfidera
+12/01/2017 11:53:11 devpinoyLogger Intializing properties file
+12/01/2017 11:53:11 devpinoyLogger Testcase tecfidera_assessbility_contrast is runnable
+12/01/2017 11:53:58 devpinoyLogger Validating runmode of tecfidera_assessbility_contrastof suite tecfidera
+12/01/2017 11:53:58 devpinoyLogger Intializing properties file
+12/01/2017 11:53:59 devpinoyLogger Testcase tecfidera_assessbility_contrast is runnable
+12/01/2017 11:54:30 devpinoyLogger Validating runmode of tecfidera_assessbility_contrastof suite tecfidera
+12/01/2017 11:54:30 devpinoyLogger Intializing properties file
+12/01/2017 11:54:30 devpinoyLogger Testcase tecfidera_assessbility_contrast is runnable
+12/01/2017 11:55:12 devpinoyLogger Validating runmode of tecfidera_assessbility_contrastof suite tecfidera
+12/01/2017 11:55:12 devpinoyLogger Intializing properties file
+12/01/2017 11:55:12 devpinoyLogger Skipping test tecfidera_assessbility_contrast inside Suite tecfidera
+12/01/2017 11:55:12 devpinoyLogger Intializing properties file
+12/01/2017 11:55:12 devpinoyLogger Validating runmode of tecfidera_Searchof suite tecfidera
+12/01/2017 11:55:12 devpinoyLogger Intializing properties file
+12/01/2017 11:55:12 devpinoyLogger Testcase tecfidera_Search is runnable
+12/01/2017 13:52:19 devpinoyLogger Validating runmode of tecfidera_Searchof suite tecfidera
+12/01/2017 13:52:19 devpinoyLogger Intializing properties file
+12/01/2017 13:52:19 devpinoyLogger Testcase tecfidera_Search is runnable
+12/01/2017 13:53:24 devpinoyLogger Validating runmode of tecfidera_Searchof suite tecfidera
+12/01/2017 13:53:24 devpinoyLogger Intializing properties file
+12/01/2017 13:53:24 devpinoyLogger Testcase tecfidera_Search is runnable
+12/01/2017 13:54:28 devpinoyLogger Validating runmode of tecfidera_Searchof suite tecfidera
+12/01/2017 13:54:28 devpinoyLogger Intializing properties file
+12/01/2017 13:54:28 devpinoyLogger Skipping test tecfidera_Search inside Suite tecfidera
+12/01/2017 13:54:28 devpinoyLogger Intializing properties file
+12/01/2017 13:54:28 devpinoyLogger Validating runmode of tecfidera_Event1of suite tecfidera
+12/01/2017 13:54:28 devpinoyLogger Intializing properties file
+12/01/2017 13:54:28 devpinoyLogger Testcase tecfidera_Event1 is runnable
+12/01/2017 15:38:51 devpinoyLogger Validating runmode of tecfidera_Event1of suite tecfidera
+12/01/2017 15:38:51 devpinoyLogger Intializing properties file
+12/01/2017 15:38:51 devpinoyLogger Testcase tecfidera_Event1 is runnable
+12/01/2017 15:40:14 devpinoyLogger Validating runmode of tecfidera_Event1of suite tecfidera
+12/01/2017 15:40:14 devpinoyLogger Intializing properties file
+12/01/2017 15:40:14 devpinoyLogger Testcase tecfidera_Event1 is runnable
+12/01/2017 15:41:29 devpinoyLogger Validating runmode of tecfidera_Event1of suite tecfidera
+12/01/2017 15:41:29 devpinoyLogger Intializing properties file
+12/01/2017 15:41:29 devpinoyLogger Skipping test tecfidera_Event1 inside Suite tecfidera
+12/01/2017 15:41:29 devpinoyLogger Intializing properties file
+12/01/2017 15:41:29 devpinoyLogger Validating runmode of tecfidera_Unsubscribe_CrossDomainof suite tecfidera
+12/01/2017 15:41:29 devpinoyLogger Intializing properties file
+12/01/2017 15:41:29 devpinoyLogger Testcase tecfidera_Unsubscribe_CrossDomain is runnable
+12/01/2017 19:11:40 devpinoyLogger Validating runmode of tecfidera_Unsubscribe_CrossDomainof suite tecfidera
+12/01/2017 19:11:40 devpinoyLogger Intializing properties file
+12/01/2017 19:11:40 devpinoyLogger Testcase tecfidera_Unsubscribe_CrossDomain is runnable
+12/01/2017 19:12:38 devpinoyLogger Validating runmode of tecfidera_Unsubscribe_CrossDomainof suite tecfidera
+12/01/2017 19:12:38 devpinoyLogger Intializing properties file
+12/01/2017 19:12:38 devpinoyLogger Testcase tecfidera_Unsubscribe_CrossDomain is runnable
+12/01/2017 19:14:15 devpinoyLogger Validating runmode of tecfidera_Unsubscribe_CrossDomainof suite tecfidera
+12/01/2017 19:14:15 devpinoyLogger Intializing properties file
+12/01/2017 19:14:15 devpinoyLogger Skipping test tecfidera_Unsubscribe_CrossDomain inside Suite tecfidera
+12/01/2017 19:14:15 devpinoyLogger Intializing properties file
+12/01/2017 19:14:15 devpinoyLogger Executing Regression.tecfidera_hcp
+12/01/2017 19:14:15 devpinoyLogger Validating runmode of tecfidera_hcp_regof suite tecfiderahcp
+12/01/2017 19:14:15 devpinoyLogger Intializing properties file
+12/01/2017 19:14:15 devpinoyLogger Testcase tecfidera_hcp_reg is runnable
+12/01/2017 19:22:28 devpinoyLogger Executing Regression.tecfidera_hcp
+12/01/2017 19:22:28 devpinoyLogger Validating runmode of tecfidera_hcp_regof suite tecfiderahcp
+12/01/2017 19:22:28 devpinoyLogger Intializing properties file
+12/01/2017 19:22:28 devpinoyLogger Testcase tecfidera_hcp_reg is runnable
+12/01/2017 19:23:49 devpinoyLogger Executing Regression.tecfidera_hcp
+12/01/2017 19:23:49 devpinoyLogger Validating runmode of tecfidera_hcp_regof suite tecfiderahcp
+12/01/2017 19:23:49 devpinoyLogger Intializing properties file
+12/01/2017 19:23:49 devpinoyLogger Testcase tecfidera_hcp_reg is runnable
+12/01/2017 19:25:07 devpinoyLogger Executing Regression.tecfidera_hcp
+12/01/2017 19:25:07 devpinoyLogger Validating runmode of tecfidera_hcp_regof suite tecfiderahcp
+12/01/2017 19:25:07 devpinoyLogger Intializing properties file
+12/01/2017 19:25:07 devpinoyLogger Skipping test tecfidera_hcp_reg inside Suite tecfiderahcp
+12/01/2017 19:25:07 devpinoyLogger Intializing properties file
+12/01/2017 19:25:07 devpinoyLogger Executing Regression.tecfidera_hcp
+12/01/2017 19:25:07 devpinoyLogger Validating runmode of tecfidera_hcp_login_searchof suite tecfiderahcp
+12/01/2017 19:25:07 devpinoyLogger Intializing properties file
+12/01/2017 19:25:07 devpinoyLogger Testcase tecfidera_hcp_login_search is runnable
+12/01/2017 23:21:54 devpinoyLogger Executing Regression.tecfidera_hcp
+12/01/2017 23:21:54 devpinoyLogger Validating runmode of tecfidera_hcp_login_searchof suite tecfiderahcp
+12/01/2017 23:21:54 devpinoyLogger Intializing properties file
+12/01/2017 23:21:54 devpinoyLogger Testcase tecfidera_hcp_login_search is runnable
+12/01/2017 23:23:09 devpinoyLogger Executing Regression.tecfidera_hcp
+12/01/2017 23:23:09 devpinoyLogger Validating runmode of tecfidera_hcp_login_searchof suite tecfiderahcp
+12/01/2017 23:23:09 devpinoyLogger Intializing properties file
+12/01/2017 23:23:09 devpinoyLogger Testcase tecfidera_hcp_login_search is runnable
+12/01/2017 23:24:21 devpinoyLogger Executing Regression.tecfidera_hcp
+12/01/2017 23:24:21 devpinoyLogger Validating runmode of tecfidera_hcp_login_searchof suite tecfiderahcp
+12/01/2017 23:24:21 devpinoyLogger Intializing properties file
+12/01/2017 23:24:21 devpinoyLogger Skipping test tecfidera_hcp_login_search inside Suite tecfiderahcp
+12/01/2017 23:24:21 devpinoyLogger Intializing properties file
+12/01/2017 23:24:21 devpinoyLogger Executing Regression.tecfidera_hcp
+12/01/2017 23:24:21 devpinoyLogger Validating runmode of tecfiderahcp_editinfoof suite tecfiderahcp
+12/01/2017 23:24:21 devpinoyLogger Intializing properties file
+12/01/2017 23:24:21 devpinoyLogger Testcase tecfiderahcp_editinfo is runnable
+13/01/2017 00:52:13 devpinoyLogger Intializing properties file
+13/01/2017 00:52:13 devpinoyLogger Intializing properties file
+13/01/2017 00:52:13 devpinoyLogger Intializing properties file
+13/01/2017 00:52:13 devpinoyLogger Intializing properties file
+13/01/2017 00:52:13 devpinoyLogger Intializing properties file
+13/01/2017 00:52:13 devpinoyLogger Intializing properties file
+13/01/2017 00:52:13 devpinoyLogger Intializing properties file
+13/01/2017 00:52:13 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
+13/01/2017 00:52:14 devpinoyLogger Intializing properties file
