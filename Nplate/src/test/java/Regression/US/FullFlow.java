@@ -119,7 +119,7 @@ package Regression.US;
 
 		        
 		        client.click("NATIVE", "xpath=//*[@text and @class='UIAButton' and ./parent::*[@class='UIAView']]", 0, 1);
-		        client.click("NATIVE", "xpath=//*[@class='UIAView' and ./*[@class='UIACollectionView']]//*[@knownSuperClass='UILabel']", 34, 1);
+		        client.click("NATIVE", "xpath=//*[@class='UIAView' and ./*[@class='UIACollectionView']]//*[@knownSuperClass='UILabel']", 30, 1);
 		        client.click("NATIVE", "xpath=//*[@text='TIME:']", 0, 1);
 		        if(client.waitForElement("NATIVE", "xpath=//*[@class='UIAPickerWheel']", 0, 10000)){
 		            
