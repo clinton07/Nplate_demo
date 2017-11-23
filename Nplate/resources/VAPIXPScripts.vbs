@@ -138,15 +138,23 @@ Function executeScriptandAttachResult(Debug, CurrentTestSet,CurrentTSTest, Curre
  ' msgbox(sTCName)
 'Create a batch file
 	resultfolder = projectDir & "\Results"
+	'cmdlineoutput = resultfolder & "\cmdlineoutput.txt"
+'	msgbox resultfolder
   Set objFSO=CreateObject("Scripting.FileSystemObject")
-  outFile = projectDir & "\resources\autorun.bat"
+  outFile = projectDir & "\resources\autorun_batch.bat"
   'TDOutput.Print outFile
  ' msgbox(outFile) c:\Opensource\apache-maven-3.3.9\bin\
   Set objFile = objFSO.CreateTextFile(outFile,True)
-  objFile.Write "hostname" & vbCrlf
-  objFile.Write "call mvn -version" & vbCrLf
-  objFile.Write "cd " & projectDir & "" & vbCrLf  
-  objFile.Write "call mvn -Dtest="& sTCName & " test -DExecuteFromHPALM=Y -l " & resultfolder & "\Executionlog.txt" &  vbCrLf 
+  'objFile.Write "hostname" & vbCrlf
+  'objFile.Write "call mvn -version" & vbCrLf
+ ' objFile.Write “”
+  
+  objFile.Write "cd " & resultfolder & vbCrLf  
+  'objFile.Write "call mvn -Dtest="& sTCName & " test -DExecuteFromHPALM=Y -l " & resultfolder & "\Executionlog.txt" &  vbCrLf 
+  objFile.Write "del *.zip *.txt" & vbCrLf 
+  objFile.Write "cd " & projectDir & "\resources" & vbCrLf  
+  'objFile.Write "java -jar jenkins-cli.jar -s http://localhost:8080/ build VeevaIRep -s -v -p testname=" & sTCName & " -p ExecuteFromHPALM=Y >> "  & chr(34) & cmdlineoutput & chr(34) & vbCrLf 
+  objFile.Write "java -jar jenkins-cli.jar -s http://localhost:8080/ build VeevaIRep -s -v -p testname=" & sTCName & " -p ExecuteFromHPALM=Y" & vbCrLf 
   'objFile.Write "pause"  & vbCrLf
   objFile.Close
   XTools.Sleep 1000
@@ -156,8 +164,8 @@ Function executeScriptandAttachResult(Debug, CurrentTestSet,CurrentTSTest, Curre
   Set objShell = CreateObject("WScript.Shell")
   on error resume next
                 'msgbox strProjectPath
-  objShell.Run "cmd /c " & outFile , 1, True
-  XTools.Sleep 1000
+  objShell.Run "cmd /c " & chr(34) & outFile & chr(34) , 1, True
+  XTools.Sleep 10000
   
   
    'get the html reprot file name
@@ -166,11 +174,11 @@ Function executeScriptandAttachResult(Debug, CurrentTestSet,CurrentTSTest, Curre
   Set objShell = NOTHING
  ' msgbox ouresult
   strFilePath = resultfolder & "\" & sTCName & ".zip"
-  strFilePath1 = resultfolder & "\Executionlog.txt"
+ 'strFilePath1 = resultfolder & "\Executionlog.txt"
   'msgbox strFilePath
  ' PublishCommandLineOutput(CurrentRun)
  call QC_AttachFileToTestRun ( CurrentRun, strFilePath )
- 'call QC_AttachFileToTestRun ( CurrentRun, strFilePath1 )
+ 'call QC_AttachFileToTestRun ( CurrentRun, cmdlineoutput )
   executeScriptandAttachResult = ouresult
 End Function
 
